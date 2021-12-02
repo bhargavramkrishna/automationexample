@@ -1,0 +1,5 @@
+2021-12-02 10:07:13.874 [main] INFO  apptest.tcTest - browser lanched
+2021-12-02 10:07:13.922 [main] INFO  apptest.tcTest - opened app
+2021-12-02 10:07:13.930 [main] INFO  apptest.tcTest - user logged
+2021-12-02 10:07:13.935 [main] INFO  apptest.tcTest - cart is ffilled
+2021-12-02 10:07:13.943 [main] INFO  apptest.tcTest - file closed
